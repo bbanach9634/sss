@@ -3,8 +3,8 @@
     "server_port":443,
     "local_address":"127.0.0.1",
     "local_port":1080,
-    "password":"password0",
-    "timeout":120,
+    "password":"123456",
+    "timeout":300,
     "method":"aes-256-gcm",
-    "fast_open":true
+    "fast_open":false
 }
